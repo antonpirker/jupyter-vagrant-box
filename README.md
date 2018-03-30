@@ -1,6 +1,6 @@
 # jupyter-vagrant-box
 
-This is a simple vagrant virtual machine. It contains a setup for running Jupyter notebook with Python 3.
+This is a simple Vagrant virtual machine. It contains a setup for running Jupyter notebook with Python 3.
 
 ### Prerequisites
 
@@ -10,10 +10,10 @@ You need the following installed on your computer:
 
 ### Usage
 
-- Copy `Vagrantfile` and the `scripts` folder to the directoy where your data science projects lives.
+- Copy `Vagrantfile` and the `scripts` folder to the folder where your data science projects lives.
 - Run the shell command `vagrant up` 
-- When the installation is finished point your browser to [http://localhost:8000]
-
+- Wait until the virtual machine is setup and ready.
+- Point your browser to [http://localhost:8000](http://localhost:8000)
 
 That's it. I hope this is useful for some people. Have fun!
 
