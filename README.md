@@ -16,7 +16,7 @@ You need the following installed on your computer:
 - Point your browser to [http://localhost:8000](http://localhost:8000)
 - **Optional:** If you need to install additional Python packages (or do something similar) you can log into the virtual machine by calling `vagrant ssh`.
 
-That's it. I hope this is useful for some people. Have fun!
+**That's it.** I hope this is useful for some people. Have fun!
 
 
 ### Thank's
